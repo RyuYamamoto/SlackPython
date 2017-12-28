@@ -2,7 +2,7 @@
 # coding:utf-8
 from slackclient import SlackClient
 
-token = "xoxp-209346279542-209346279590-211596497334-5f5ff0ff50fd6dfcc604b359f9521943"
+token = ""
 
 sc = SlackClient(token)
 
